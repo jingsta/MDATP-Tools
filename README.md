@@ -1,6 +1,8 @@
 # MDATP-Tools
 Microsoft Defender ATP Toolkit to test O365 ATP, Microsoft Defender ATP, Azure ATP, and Sentinel
 
+This is a parking lot for a future tool I am cleaning up and will upload here.
+
 Disclaimer: The sample scripts provided here are not supported under any Microsoft standard support program or service. 
     All scripts are provided AS IS without warranty of any kind. 
     Microsoft further disclaims all implied warranties including, without limitation, any implied warranties of merchantability or of fitness for a particular purpose. 
